@@ -11,4 +11,4 @@ how to install:
 6. Paste it in stylus
 7. enjoy:)
 
-For any problems contact me at Lichess (Krukulu)
+For any problems (or if you want to have another board background) contact me at Lichess (Krukulu)
