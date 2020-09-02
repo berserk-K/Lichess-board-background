@@ -1,0 +1,4 @@
+.brown .is2d cg-board {
+    background-image: url();
+background-color: #a1101d; 
+}
